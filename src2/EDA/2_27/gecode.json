@@ -1,0 +1,99 @@
+[
+    {
+     "address_components": [
+      {
+       "long_name": "1547",
+       "short_name": "1547",
+       "types": [
+        "street_number"
+       ]
+      },
+      {
+       "long_name": "North Wells Street",
+       "short_name": "N Wells St",
+       "types": [
+        "route"
+       ]
+      },
+      {
+       "long_name": "Near North Side",
+       "short_name": "Near North Side",
+       "types": [
+        "neighborhood",
+        "political"
+       ]
+      },
+      {
+       "long_name": "Chicago",
+       "short_name": "Chicago",
+       "types": [
+        "locality",
+        "political"
+       ]
+      },
+      {
+       "long_name": "Cook County",
+       "short_name": "Cook County",
+       "types": [
+        "administrative_area_level_2",
+        "political"
+       ]
+      },
+      {
+       "long_name": "Illinois",
+       "short_name": "IL",
+       "types": [
+        "administrative_area_level_1",
+        "political"
+       ]
+      },
+      {
+       "long_name": "United States",
+       "short_name": "US",
+       "types": [
+        "country",
+        "political"
+       ]
+      },
+      {
+       "long_name": "60610",
+       "short_name": "60610",
+       "types": [
+        "postal_code"
+       ]
+      }
+     ],
+     "formatted_address": "1547 N Wells St, Chicago, IL 60610, USA",
+     "geometry": {
+      "bounds": {
+       "northeast": {
+        "lat": 41.9105488,
+        "lng": -87.63420149999999
+       },
+       "southwest": {
+        "lat": 41.9104894,
+        "lng": -87.6345554
+       }
+      },
+      "location": {
+       "lat": 41.9105258,
+       "lng": -87.6343775
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+       "northeast": {
+        "lat": 41.91186808029151,
+        "lng": -87.63309861970849
+       },
+       "southwest": {
+        "lat": 41.90917011970851,
+        "lng": -87.6357965802915
+       }
+      }
+     },
+     "place_id": "ChIJDcIHTEHTD4gRv4ogAyUDBsE",
+     "types": [
+      "premise"
+     ]
+    }
+   ]
